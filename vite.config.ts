@@ -16,7 +16,7 @@ export default defineConfig({
       usePolling: true
     }
   },
-  base: '/kylan-dev-website/',
+  base: '/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
